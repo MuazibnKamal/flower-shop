@@ -1,0 +1,108 @@
+/*header style */
+
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 0px 0px 0px 240px;
+    display: flex;
+    align-items:center;
+}
+
+.banner .Profile{
+    width: 315px;
+    height:515px;
+    padding-left: 100px;
+    padding-right: 200px;
+}
+.banner-greeting{
+    text-align: left;
+    font-size: 50px;
+    font-weight: 800;
+
+}
+.description{
+    text-align:initial;
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.featured{
+    padding-top: 30px;
+    text-align: center;
+}
+.featured-description{
+    text-align:center;
+    padding: bottom 20px;
+    padding-top: 30px;
+}
+.featured-item{
+    display: flex;
+ padding: block 10px;
+}
+.feature-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.feature-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.feature-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.information{
+    background-color: rgb(122, 116, 116);
+    display: flex;
+    margin-block-start: 30px;
+    padding-left: 450px;
+    padding-right: 30px;
+    
+}
+.img1{
+   display: block;
+   display: inline-flex;
+}
+.img2{
+    display: block;
+    display: inline-flex;
+}
+.img3{
+    display: block;
+    display: inline-flex;
+}
+.hotdeal{
+    background-color: #ffbac9;
+}
+.text{
+    text-align: left;
+   
+}
+.btn{
+    align-items: center;
+}
+.hotdeal-pic{
+    width: 315px;
+    height:515px;
+    padding-left: 100px;
+    padding-right: 200px;
+}
